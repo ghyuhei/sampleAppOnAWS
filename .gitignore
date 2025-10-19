@@ -1,0 +1,67 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars.backup
+
+# Terraform directories
+**/.terraform/
+**/.terraform/*
+**/.terraform.lock.hcl
+.terraform/
+.terraform.lock.hcl
+
+# Local configuration (contains sensitive data)
+terraform.tfvars
+*.auto.tfvars
+backend.tf
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# Google Cloud credentials
+*.json
+!terraform.tfvars.example
+application_default_credentials.json
+gcp-*.json
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.backup
+*.bak
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+*.tsbuildinfo
