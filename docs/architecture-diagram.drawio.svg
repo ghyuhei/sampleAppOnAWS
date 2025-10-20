@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1601px" height="1201px" viewBox="-0.5 -0.5 1601 1201" content="&lt;mxfile host=&quot;app.diagrams.net&quot;&gt;&lt;diagram name=&quot;AWS Architecture&quot; id=&quot;aws-architecture&quot;&gt;7V1bc6M4Fv41rtp5SBd3+DHOZbqqu3t2Mqnpnae0MLZN12C8gBN7fv2KiwzSEYZgEAZPXqYxBoM439E5V50z8G7z+iGJttufg1UQnznG6vUM/PTMcVzXYP9LW96OLabjHxs2SbwqGk8N9/GfoGg0itaXeBXspYZpEOzSeHfduAyiKFiml21RkgQv182eg+j6t+6iTcA13C+jiG/9PV6l26LVtozTFx+DeLMtfrXvF19so/LLomG/jVbBS60JH2bgXRIE6fG/m9d3QZR3Xtkvx/fdXvn2dGNJEKVNvnD/6P31z9/vPqVP//7l+cPPv73+8/Pn4igvUfRS/OKfgyRK2C+Y3W/6VvbFyzbepcH9LlrmrS+sl9m1TbpJ2Ccm+zeKV7/Uf+M+SNLgtdZU/OUPQbAJ0uSNNSm+9YviAwr4i6dXy/aKtpfayJRty1r3FG1RgfzmZNTTH4z9p+iIc6CBp9b4MQh2wd0uDuJd8Bwk8S6I2M+6j5+DKC0+Zd+z7JIoWv+SB5T09XO8ix6DXZ6srFf2uzZxlN+m6xovQZCy27yP0iDIW54ZbMvg+yAO8l8QpEGcHzL7ZXYCPEfRu+AlzTuf/dKfi74NVnG+2Oyo+R/Y75J1kOb9/ZjG++g5SNlBkb3Y5q0m68s8TqzGXZDEWZdnA5w19CiKN9k3bPEty76VXX4bB0kav7CNfhc9B7v8t2dfvMQv+yQ/6N7Gu+A+jqLV/b49KPP+28TR+jFO0yBivy1iv2kZ7/IDZZsc+vE+OPz2Q1u/KO+CXZq9RLN8kG+D5+yb0+/JL3+7+/rp59+fPn78/cuvDw+/PT3c/v7l0/c/f/l/X379/eH258en2yzf/vrh9u7T508Pn+/uHm4fHr58+5S/f7r//p+/Hn7/9P3r/dPt0+fHr18/ffv05dv9p0+3t798e/rj/vEvt3987w+CfZy+ZL8mfzj/O1inUZwEm+ApWgbRu7pQR3+/mZT9/SZq/P1Gav79BvXf7zaXfn/Qzv+bx2n1v+wbsw+f+WKyF+/SnxLt37+4p+z33dW+/5J/4eXffy7+/fP8p/x5//vPpd+f//vPi99/3/r9l87//T/HO/tFi+BtkH/rfRCl8ffi28OjXYw0u2h7aZjd75u0+Lcvv6TJy/ckTV/r31yuwtcb7WDL+qD+bdkxWOz1VbbB/df74CV5CO7j6D7J7ucp2AVPuzgK1lu2kfkQPAfR+kv+c3bBkx/Xv8SbKL/Y+fWUtd9F+YK0fbwOsl/9uAuSNL+e+y3eBUn2U3e7Q9u/eIn3QZDEy+BPdgjEP26zrzznx1LeGcs4i+m8t5MoS9xzsA2SaP+x/nOCKIryd+c/LmvdZn+9xBv2rxV7uf37LkjjXZCdC/Z3dtf0Kch+dv7jVuyv7Kc8RnnyECf5X/ktXIaFlb2nXZy+D5773/s+TtI33/skev9XFqjHTw93f/mDaLP56U9vd/PV3Y/3r59u79q/vzh3vZ9Tff/Y64P2+/uXv9o/rns/eDgGbuyb/KjtG+Ol/f2d6d9feLnJ3y3TbJXv/r2DX/BgFk6M7Cc3/OXRwl9u5cu/+ouhv1y88Jd/0f4fxjP5y6/7y6/yy13ol2P5Py7u5+BN/o8L/PKv/v1n/eXQ+n/00f7yL/p/KPv/JCz+xwU35qWRb5w1+ebGaf2PGf3PIf05Lv/PS+zPG+uX35nu50z/z439Oab/58X+nOv+eWP/s/mff5b7F+f+xRn9ywv/RQdfWGf3L/rmfm783z+0f//HLngJoiDM+zcI8/9/y//H3U/of/73x/H+WP+vTx6/Xl//n9P8/oeu++Piv39a+H9t+kY/jfnnm/78K/3zqf/8q/rnG/vnX/XPZ/7nX/X/3B/v/30G/++v+u/JD/eX+ff6cH/5yT7fz37+3+3v98F+fN/Pv/7+c+1/ftd/T3+8z3e9v8yfb+L/c3+4/2/77+m/v/d///X+eX/5/+7Hv8+HL+j7f1/sz+v8/38f/H4fvDDbfP+/X//7M/r3l/v74/zxu8E/b/TvZ/T37+P//1wf/vyz8Odf9/9/Wfz/95O//1P9/9+O///u0v//PP/d/fn+P/+nGP/7m6H/e6D//9t4/38b5/8/w/93l//v/v37Z/h/X/XvZ/X/P9X//37w/387/vt/hv//mv//n/L/l/b/j6P9/3/a/7t//9/t//s8/t1v5/+l///7+f8/q/9/F///v+v//zT+/+/n/3+u//+/3fz/7+P/v/X///H+/8s3/t/54dXu/m9G+//V6P//Xfz/f8b/f+v7/+++/37+b/98f7/1/31//7f5/99O/v+Hg/8/5f//duz//3b8/58f/v/2qP//0/r/X47//7P6/39d/P+fxv//dvz//7P0/79c//9n/f9fzv7/j8M//t/tf+fXX+8+/fL09fn/fP0y+J/7n+//vHv+9fPn/377/fPD198uPh3/5f/54fN///x//+fff/r0/eHu0+9Pt//55eG/+//+/P3pj/99+O///fPDp4fb/36++e3L3e3N/36//f/5P/8/e4jZ9m13edx9+u+fP/3zy5f8+OYD/e8v+S/g30//Pdz4/OD0//3PH9+evv6/4kh+r7wO7u7/x8PT//flX/ffH77+9vQwNjT/uv/95dvdH3++/f7l24P2n1v6P/u8wOTp9//+fvd1nv32z1/++3/m//7/PuV9k/83/3V5X//nL2X/u08P3/9/9u+f/vv/vj79+vXw//zH/5//93//l0+fv/z/VnQNnw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs>
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+    </style>
+  </defs>
+  <g>
+    <!-- Title -->
+    <rect x="400" y="20" width="800" height="40" fill="none" stroke="none"/>
+    <text x="800" y="45" font-family="Helvetica" font-size="24" font-weight="bold" text-anchor="middle" fill="#000000">ECS Managed Instance with TypeScript Monorepo on AWS</text>
+
+    <!-- Users -->
+    <ellipse cx="800" cy="140" rx="40" ry="40" fill="#232F3E" stroke="#232F3E" stroke-width="2"/>
+    <path d="M 800 120 Q 785 115 785 130 L 785 145 Q 785 155 795 155 L 805 155 Q 815 155 815 145 L 815 130 Q 815 115 800 120 Z" fill="#FFFFFF"/>
+    <ellipse cx="800" cy="125" rx="8" ry="8" fill="#FFFFFF"/>
+    <text x="800" y="195" font-family="Helvetica" font-size="14" font-weight="bold" text-anchor="middle" fill="#000000">Users</text>
+
+    <!-- CloudFront Box -->
+    <rect x="640" y="250" width="320" height="140" rx="10" ry="10" fill="#FFE6CC" stroke="#D79B00" stroke-width="2" stroke-dasharray="8 8"/>
+    <rect x="670" y="270" width="80" height="100" rx="5" ry="5" fill="#FF9900" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="710" y="315" font-family="Helvetica" font-size="11" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CloudFront</text>
+
+    <text x="760" y="280" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">CloudFront</text>
+    <text x="760" y="305" font-family="Helvetica" font-size="10" text-anchor="start" fill="#000000">- Global CDN</text>
+    <text x="760" y="320" font-family="Helvetica" font-size="10" text-anchor="start" fill="#000000">- WAF (Rate Limiting)</text>
+    <text x="760" y="335" font-family="Helvetica" font-size="10" text-anchor="start" fill="#000000">- TLS 1.2+, HTTP/3</text>
+    <text x="760" y="350" font-family="Helvetica" font-size="10" text-anchor="start" fill="#000000">- Origin Access Control</text>
+
+    <rect x="820" y="270" width="50" height="50" rx="3" ry="3" fill="#DD344C" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="845" y="300" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">WAF</text>
+
+    <!-- VPC Container -->
+    <rect x="120" y="450" width="1360" height="680" rx="10" ry="10" fill="#E9F3E6" stroke="#248814" stroke-width="3"/>
+    <text x="140" y="475" font-family="Helvetica" font-size="14" font-weight="bold" text-anchor="start" fill="#248814">VPC: 10.x.0.0/16</text>
+
+    <!-- Public Subnet -->
+    <rect x="160" y="510" width="600" height="280" rx="8" ry="8" fill="#E9F3E6" stroke="#248814" stroke-width="2"/>
+    <text x="180" y="530" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#248814">Public Subnets (10.x.0.0/20)</text>
+
+    <!-- S3 Bucket -->
+    <rect x="500" y="280" width="80" height="100" rx="5" ry="5" fill="#277116" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="540" y="325" font-family="Helvetica" font-size="11" font-weight="bold" text-anchor="middle" fill="#FFFFFF">S3</text>
+    <text x="540" y="340" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#FFFFFF">Bucket</text>
+    <text x="540" y="400" font-family="Helvetica" font-size="11" font-weight="bold" text-anchor="middle" fill="#000000">S3 Bucket</text>
+    <text x="540" y="415" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">(Static Assets)</text>
+
+    <!-- ALB -->
+    <rect x="250" y="600" width="80" height="100" rx="5" ry="5" fill="#8C4FFF" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="290" y="645" font-family="Helvetica" font-size="10" font-weight="bold" text-anchor="middle" fill="#FFFFFF">ALB</text>
+    <text x="290" y="720" font-family="Helvetica" font-size="11" font-weight="bold" text-anchor="middle" fill="#000000">Application Load Balancer</text>
+    <text x="360" y="640" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Health Check: /api/health</text>
+    <text x="360" y="653" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Listener: 80→443, 443→TG</text>
+    <text x="360" y="666" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Stickiness: 24h</text>
+
+    <!-- NAT Gateway -->
+    <rect x="550" y="600" width="60" height="80" rx="5" ry="5" fill="#8C4FFF" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="580" y="645" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">NAT GW</text>
+    <text x="580" y="700" font-family="Helvetica" font-size="10" font-weight="bold" text-anchor="middle" fill="#000000">NAT Gateway</text>
+
+    <!-- Private Subnet -->
+    <rect x="800" y="510" width="640" height="580" rx="8" ry="8" fill="#E6F2F8" stroke="#147EBA" stroke-width="2"/>
+    <text x="820" y="530" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#147EBA">Private Subnets (10.x.128.0/20)</text>
+
+    <!-- ECS Cluster -->
+    <rect x="840" y="560" width="560" height="300" rx="10" ry="10" fill="#FFF4E6" stroke="#FF9900" stroke-width="2" stroke-dasharray="8 8"/>
+    <rect x="860" y="580" width="80" height="100" rx="5" ry="5" fill="#ED7100" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="900" y="625" font-family="Helvetica" font-size="10" font-weight="bold" text-anchor="middle" fill="#FFFFFF">ECS</text>
+    <text x="950" y="590" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">ECS Cluster (Managed Instance)</text>
+
+    <!-- EC2 Instance -->
+    <rect x="960" y="620" width="400" height="220" rx="5" ry="5" fill="#FFFFFF" stroke="#FF9900" stroke-width="2"/>
+    <rect x="980" y="640" width="60" height="80" rx="5" ry="5" fill="#ED7100" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="1010" y="685" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">EC2</text>
+
+    <text x="1050" y="650" font-family="Helvetica" font-size="10" font-weight="bold" text-anchor="start" fill="#000000">Auto Scaling Group</text>
+    <text x="1050" y="665" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">Amazon Linux 2023 (ECS-optimized)</text>
+    <text x="1050" y="685" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Instance Type: t3.small/medium/large</text>
+    <text x="1050" y="698" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- IMDSv2 Enforced</text>
+    <text x="1050" y="711" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- EBS Encrypted (KMS)</text>
+    <text x="1050" y="724" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Min/Desired/Max: 0-1-3 (dev)</text>
+
+    <!-- Frontend Container -->
+    <rect x="1000" y="750" width="150" height="70" rx="5" ry="5" fill="#E1F5FE" stroke="#01579B" stroke-width="2"/>
+    <rect x="1010" y="760" width="30" height="30" rx="3" ry="3" fill="#ED7100" stroke="none"/>
+    <text x="1025" y="780" font-family="Helvetica" font-size="7" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CTR</text>
+    <text x="1050" y="770" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">Frontend</text>
+    <text x="1050" y="783" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">Next.js 14</text>
+    <text x="1050" y="796" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">Port: 3000</text>
+
+    <!-- Backend Container -->
+    <rect x="1190" y="750" width="150" height="70" rx="5" ry="5" fill="#F3E5F5" stroke="#4A148C" stroke-width="2"/>
+    <rect x="1200" y="760" width="30" height="30" rx="3" ry="3" fill="#ED7100" stroke="none"/>
+    <text x="1215" y="780" font-family="Helvetica" font-size="7" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CTR</text>
+    <text x="1240" y="770" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="start" fill="#000000">Backend</text>
+    <text x="1240" y="783" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">Fastify API</text>
+    <text x="1240" y="796" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">Port: 3001</text>
+
+    <!-- VPC Endpoints -->
+    <rect x="840" y="900" width="560" height="160" rx="10" ry="10" fill="#FFF9E6" stroke="#995C00" stroke-width="2" stroke-dasharray="8 8"/>
+    <text x="860" y="920" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">VPC Endpoints (Private Access)</text>
+
+    <!-- ECR -->
+    <rect x="880" y="950" width="60" height="80" rx="5" ry="5" fill="#ED7100" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="910" y="995" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">ECR</text>
+    <text x="910" y="1045" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">ECR</text>
+    <text x="910" y="1058" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">(Docker Images)</text>
+
+    <!-- CloudWatch -->
+    <rect x="980" y="950" width="60" height="80" rx="5" ry="5" fill="#759C3E" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="1010" y="995" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CloudWatch</text>
+    <text x="1010" y="1045" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">CloudWatch</text>
+    <text x="1010" y="1058" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">Logs</text>
+
+    <!-- SSM -->
+    <rect x="1080" y="950" width="60" height="80" rx="5" ry="5" fill="#DD344C" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="1110" y="995" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">SSM</text>
+    <text x="1110" y="1045" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">SSM</text>
+    <text x="1110" y="1058" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">(Session Manager)</text>
+
+    <!-- Secrets Manager -->
+    <rect x="1180" y="950" width="60" height="80" rx="5" ry="5" fill="#DD344C" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="1210" y="990" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Secrets</text>
+    <text x="1210" y="1000" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Manager</text>
+    <text x="1210" y="1045" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">Secrets</text>
+    <text x="1210" y="1058" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">Manager</text>
+
+    <!-- KMS -->
+    <rect x="1280" y="950" width="60" height="80" rx="5" ry="5" fill="#DD344C" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="1310" y="995" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">KMS</text>
+    <text x="1310" y="1045" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">KMS</text>
+    <text x="1310" y="1058" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">(Encryption)</text>
+
+    <!-- Monitoring & Security -->
+    <rect x="160" y="830" width="600" height="260" rx="10" ry="10" fill="#E8F5E9" stroke="#2E7D32" stroke-width="2" stroke-dasharray="8 8"/>
+    <text x="180" y="850" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#2E7D32">Monitoring &amp; Security</text>
+
+    <!-- GuardDuty -->
+    <rect x="200" y="880" width="60" height="80" rx="5" ry="5" fill="#DD344C" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="230" y="925" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">GuardDuty</text>
+    <text x="230" y="975" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">GuardDuty</text>
+
+    <!-- CloudTrail -->
+    <rect x="300" y="880" width="60" height="80" rx="5" ry="5" fill="#759C3E" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="330" y="925" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">CloudTrail</text>
+    <text x="330" y="975" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">CloudTrail</text>
+
+    <!-- X-Ray -->
+    <rect x="400" y="880" width="60" height="80" rx="5" ry="5" fill="#ED7100" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="430" y="925" font-family="Helvetica" font-size="9" font-weight="bold" text-anchor="middle" fill="#FFFFFF">X-Ray</text>
+    <text x="430" y="975" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">X-Ray</text>
+
+    <!-- CloudWatch Alarms -->
+    <rect x="200" y="990" width="60" height="80" rx="5" ry="5" fill="#759C3E" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="230" y="1030" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Alarms</text>
+    <text x="230" y="1080" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">CloudWatch</text>
+    <text x="230" y="1093" font-family="Helvetica" font-size="8" text-anchor="middle" fill="#000000">Alarms</text>
+
+    <!-- Budgets -->
+    <rect x="300" y="990" width="60" height="80" rx="5" ry="5" fill="#759C3E" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="330" y="1030" font-family="Helvetica" font-size="8" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Budgets</text>
+    <text x="330" y="1080" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#000000">AWS Budgets</text>
+
+    <!-- CI/CD -->
+    <rect x="1020" y="250" width="300" height="140" rx="10" ry="10" fill="#F3E5F5" stroke="#6A1B9A" stroke-width="2" stroke-dasharray="8 8"/>
+    <circle cx="1070" cy="300" r="30" fill="#000000"/>
+    <text x="1070" y="295" font-family="Helvetica" font-size="18" font-weight="bold" text-anchor="middle" fill="#FFFFFF">GH</text>
+    <text x="1110" y="280" font-family="Helvetica" font-size="12" font-weight="bold" text-anchor="start" fill="#000000">GitHub Actions CI/CD</text>
+    <text x="1110" y="305" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- OIDC Authentication</text>
+    <text x="1110" y="318" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Lint, Test, Build</text>
+    <text x="1110" y="331" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Docker Build &amp; Push to ECR</text>
+    <text x="1110" y="344" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- ecspresso Deploy</text>
+    <text x="1110" y="357" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">- Rolling Update</text>
+
+    <!-- Arrows -->
+    <!-- Users to CloudFront -->
+    <path d="M 800 180 L 800 250" fill="none" stroke="#232F3E" stroke-width="3" marker-end="url(#arrowblack)"/>
+    <text x="810" y="220" font-family="Helvetica" font-size="10" font-weight="bold" text-anchor="start" fill="#232F3E">HTTPS</text>
+
+    <!-- CloudFront to S3 -->
+    <path d="M 670 310 L 580 310" fill="none" stroke="#277116" stroke-width="2" stroke-dasharray="5 5" marker-end="url(#arrowgreen)"/>
+    <text x="620" y="305" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#277116">/_next/static/*</text>
+
+    <!-- CloudFront to ALB -->
+    <path d="M 800 390 L 800 430 L 290 430 L 290 600" fill="none" stroke="#8C4FFF" stroke-width="3" marker-end="url(#arrowpurple)"/>
+    <text x="550" y="425" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#8C4FFF">/*, /api/*</text>
+
+    <!-- ALB to ECS -->
+    <path d="M 330 650 L 450 650 L 450 710 L 1120 710 L 1120 750" fill="none" stroke="#ED7100" stroke-width="3" marker-end="url(#arroworange)"/>
+    <text x="700" y="705" font-family="Helvetica" font-size="9" text-anchor="middle" fill="#ED7100">Port: 32768-65535</text>
+
+    <!-- ECS to VPC Endpoints -->
+    <path d="M 1160 840 L 1160 900" fill="none" stroke="#995C00" stroke-width="2" stroke-dasharray="5 5" marker-end="url(#arrowbrown)"/>
+    <text x="1165" y="875" font-family="Helvetica" font-size="9" text-anchor="start" fill="#995C00">Private Access</text>
+
+    <!-- GitHub to ECR -->
+    <path d="M 1170 390 L 1170 450 L 1500 450 L 1500 990 L 940 990" fill="none" stroke="#6A1B9A" stroke-width="2" stroke-dasharray="5 5" marker-end="url(#arrowpurple2)"/>
+    <text x="1510" y="720" font-family="Helvetica" font-size="9" text-anchor="start" fill="#6A1B9A">Push Docker Image</text>
+
+    <!-- Legend -->
+    <rect x="40" y="80" width="300" height="180" rx="5" ry="5" fill="#F5F5F5" stroke="#666666" stroke-width="2"/>
+    <text x="60" y="100" font-family="Helvetica" font-size="14" font-weight="bold" text-anchor="start" fill="#000000">Legend</text>
+    <text x="60" y="125" font-family="Helvetica" font-size="11" font-weight="bold" text-anchor="start" fill="#000000">Environment: Production</text>
+    <text x="60" y="150" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ Multi-AZ Deployment</text>
+    <text x="60" y="163" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ Auto Scaling (EC2 + ECS)</text>
+    <text x="60" y="176" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ WAF + CloudFront CDN</text>
+    <text x="60" y="189" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ Private Subnets</text>
+    <text x="60" y="202" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ VPC Endpoints (Cost Optimized)</text>
+    <text x="60" y="215" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ Encryption at Rest (KMS)</text>
+    <text x="60" y="228" font-family="Helvetica" font-size="9" text-anchor="start" fill="#000000">✓ CI/CD with GitHub Actions</text>
+
+    <!-- Arrow markers -->
+    <defs>
+      <marker id="arrowblack" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#232F3E"/>
+      </marker>
+      <marker id="arrowgreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#277116"/>
+      </marker>
+      <marker id="arrowpurple" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#8C4FFF"/>
+      </marker>
+      <marker id="arroworange" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#ED7100"/>
+      </marker>
+      <marker id="arrowbrown" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#995C00"/>
+      </marker>
+      <marker id="arrowpurple2" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+        <path d="M0,0 L0,6 L9,3 z" fill="#6A1B9A"/>
+      </marker>
+    </defs>
+  </g>
+</svg>
